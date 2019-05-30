@@ -1,7 +1,7 @@
 {
   "name": "redux-saga-api",
   "version": "1.0.0",
-  "description": "Support for API service for redux & redux-saga projects",
+  "description": "Supporting API service for redux & redux-saga projects",
   "main": "src/index.js",
   "repository": "git@github.com:quangta93/redux-saga-api.git",
   "author": "Quang Tran <quangta93@gmail.com>",
